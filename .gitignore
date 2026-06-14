@@ -21,3 +21,9 @@ dist-ssr
 *.sln
 *.sw?
 .env
+# Vite cache
+.vite/
+
+# Environment files
+.env.*
+!.env.example
